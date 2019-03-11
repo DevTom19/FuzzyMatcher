@@ -1,0 +1,7 @@
+C:\Users\thomasknowles\source\repos\FuzzyMatch\FuzzyMatch\bin\Debug\FuzzyMatch.exe.config
+C:\Users\thomasknowles\source\repos\FuzzyMatch\FuzzyMatch\bin\Debug\FuzzyMatch.exe
+C:\Users\thomasknowles\source\repos\FuzzyMatch\FuzzyMatch\bin\Debug\FuzzyMatch.pdb
+C:\Users\thomasknowles\source\repos\FuzzyMatch\FuzzyMatch\obj\Debug\FuzzyMatch.csproj.CoreCompileInputs.cache
+C:\Users\thomasknowles\source\repos\FuzzyMatch\FuzzyMatch\obj\Debug\FuzzyMatch.exe
+C:\Users\thomasknowles\source\repos\FuzzyMatch\FuzzyMatch\obj\Debug\FuzzyMatch.pdb
+C:\Users\thomasknowles\source\repos\FuzzyMatch\FuzzyMatch\obj\Debug\FuzzyMatch.csprojAssemblyReference.cache
